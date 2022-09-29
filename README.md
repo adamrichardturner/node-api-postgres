@@ -9,9 +9,9 @@ A simple CRUD Express.js RESTful API that connects to and queries a PostgresSQL 
 
 ## Getting Started
 
-To use this application, you will need to first create a Postgres database on your locally with some initial user data.
+To use this application, you will need to first create a Postgres database on locally with some initial user data.
 
-Follow the instructions at [this tutorial by LogRocket](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/) regarding initial set up of the Postgres database. 
+Follow the instructions on [this tutorial by LogRocket](https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/) regarding initial set up of the Postgres database. 
 
 After making the database and running it as a non-superuser, clone this project and in the root directory install required dependancies:
 
